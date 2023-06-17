@@ -1,4 +1,40 @@
-.App {
+.navbar {
+  background-color: rgb(210, 212, 215);
+}
+
+.navbar-brand {
+  font-size: 30px;
+  font-weight: 500;
+  padding-left: 55px;
+}
+
+.nav-link {
+  font-size: 21px;
+  border-bottom: 0px solid black;
+  width: 0%;
+  left: 50%;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+}
+
+.nav-link:focus {
+  width: 100%;
+  left: 0; 
+  color: black;
+  font-weight: 400;
+  border-bottom: 2px solid black;
+}
+
+.search-bar {
+  width: 250px;
+  margin-right: 55px;
+  display: flex;
+}
+
+.form-control {
+  margin-right: 10px;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +71,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
