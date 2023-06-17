@@ -1,5 +1,5 @@
 ## About NewsMonkey 
-NewsMonkey is an ultimate news app designed to provide you with instant access to breaking news, current events, and personalized stories. Whether you're a news junkie, a casual reader, or someone who wants to stay updated on specific topics, NewsNow has got you covered.
+NewsMonkey is an ultimate news app designed to provide you with instant access to breaking news, current events, and personalized stories. Whether you're a news junkie, a casual reader, or someone who wants to stay updated on specific topics, NewsMonkey has got you covered.
 
 ## News Categories: 
 1. Business.
@@ -10,17 +10,22 @@ NewsMonkey is an ultimate news app designed to provide you with instant access t
 6. Technology.
 
 
-## Snapshots on the project:
+## Snapshots on the project
 ![Alt text](image.png)
 
+## API Used:
+newsAPI [https://newsapi.org/](https://newsapi.org/)
+
+## Technologies Used:
+1. React.js
+2. Bootstrap
 
 
+## Run on your Local Device
 
-## Available Scripts
-
-To run the project on your local device, run:
+To run the project on your local device, clone the project and run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+This runs the app in the development mode.\
 Or open [http://localhost:3000](http://localhost:3000) to view it in your browser.
