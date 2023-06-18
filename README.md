@@ -1,4 +1,4 @@
-## About NewsMonkey 
+## About NewsMonkey:
 NewsMonkey is an ultimate news app designed to provide you with instant access to breaking news, current events, and personalized stories. Whether you're a news junkie, a casual reader, or someone who wants to stay updated on specific topics, NewsMonkey has got you covered.
 
 ## News Categories: 
@@ -10,7 +10,7 @@ NewsMonkey is an ultimate news app designed to provide you with instant access t
 6. Technology.
 
 
-## Snapshots on the project
+## Snapshots on the project:
 ![Alt text](image.png)
 
 ## API Used:
@@ -20,8 +20,12 @@ newsAPI [https://newsapi.org/](https://newsapi.org/)
 1. React.js
 2. Bootstrap
 
+## Dependencies Used:
+1. react-router-dom
+2. react-infinite-scroll-component
+3. react-top-loading-bar
 
-## Run on your Local Device
+## Run on your Local Device:
 
 To run the project on your local device, clone the project and run:
 
